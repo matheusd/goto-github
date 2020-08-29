@@ -62,5 +62,5 @@ And so, such an author deciding to name their package after a non-content-servin
 domain under their control (while providing the actual contents on some third party
 content distribution platform) is **not** in fact being vain: they are in fact
 asserting **their** (the author's) authority over that package and trying to
-make life easier for their users on the inevitable future where that the content
+make life easier for their users for the inevitable future date when the content
 distribution platform ceases to exist.
